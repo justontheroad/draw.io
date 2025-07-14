@@ -318,6 +318,14 @@
         <mxCell id="zSoFTdJwqtHDQYcGsr4z-11" value="数据中台存算节点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-333" y="1827.19" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Am_CI4u68Gydb-rhWv6g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.001;entryY=0.224;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9fjLhJYOVXO7N2OmlXDZ-59" target="9fjLhJYOVXO7N2OmlXDZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am_CI4u68Gydb-rhWv6g-2" value="内网访问及数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Am_CI4u68Gydb-rhWv6g-1">
+          <mxGeometry x="-0.1282" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
