@@ -263,21 +263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cwwTzG9_eAxzKP_ijVsS-4" value="机房专线 500 Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cwwTzG9_eAxzKP_ijVsS-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.0698" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cwwTzG9_eAxzKP_ijVsS-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.201;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;startSize=6;endSize=6;startWidth=20;width=10;entryX=0.768;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9fjLhJYOVXO7N2OmlXDZ-1" target="cwwTzG9_eAxzKP_ijVsS-1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-0.35333333333255723" y="1405.87" as="sourcePoint" />
-            <mxPoint x="-120" y="1430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-120" y="1410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cwwTzG9_eAxzKP_ijVsS-6" value="阿里云智能网关&lt;br&gt;10Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cwwTzG9_eAxzKP_ijVsS-5" vertex="1" connectable="0">
+        <mxCell id="cwwTzG9_eAxzKP_ijVsS-4" value="机房专线 裸纤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cwwTzG9_eAxzKP_ijVsS-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0698" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -324,6 +310,20 @@
         <mxCell id="Am_CI4u68Gydb-rhWv6g-2" value="内网访问及数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Am_CI4u68Gydb-rhWv6g-1">
           <mxGeometry x="-0.1282" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am_CI4u68Gydb-rhWv6g-3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-61" y="1270" as="sourcePoint" />
+            <mxPoint x="-61" y="1440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-60.83000000000004" y="1355.19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am_CI4u68Gydb-rhWv6g-4" value="500M阿里云直连专线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Am_CI4u68Gydb-rhWv6g-3">
+          <mxGeometry x="-0.0698" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
