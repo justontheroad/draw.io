@@ -34,8 +34,8 @@
         <mxCell id="P6Ce5vJbtA9BVtcRjQjT-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;fontColor=light-dark(#000000,#000000);" value="政务外网" vertex="1">
           <mxGeometry height="50" width="170" x="1100" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="P6Ce5vJbtA9BVtcRjQjT-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="用户" vertex="1">
-          <mxGeometry height="30" width="60" x="980" y="430" as="geometry" />
+        <mxCell id="P6Ce5vJbtA9BVtcRjQjT-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="政务外网用户" vertex="1">
+          <mxGeometry height="30" width="90" x="977.33" y="430" as="geometry" />
         </mxCell>
         <mxCell id="P6Ce5vJbtA9BVtcRjQjT-90" edge="1" parent="1" source="P6Ce5vJbtA9BVtcRjQjT-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" target="P6Ce5vJbtA9BVtcRjQjT-89">
           <mxGeometry relative="1" as="geometry" />
