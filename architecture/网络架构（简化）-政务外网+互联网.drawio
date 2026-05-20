@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P6Ce5vJbtA9BVtcRjQjT-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6F7FF,#FFFFFF);strokeColor=#1890ff;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="370" width="160" x="960" y="359" as="geometry" />
+        </mxCell>
         <mxCell id="P6Ce5vJbtA9BVtcRjQjT-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6F7FF,#FFFFFF);strokeColor=#1890ff;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="370" width="960" x="960" y="359" as="geometry" />
+          <mxGeometry height="370" width="800" x="1120" y="359" as="geometry" />
         </mxCell>
         <mxCell id="P6Ce5vJbtA9BVtcRjQjT-62" edge="1" parent="1" source="P6Ce5vJbtA9BVtcRjQjT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" target="P6Ce5vJbtA9BVtcRjQjT-64">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +35,7 @@
           <mxGeometry height="89.98" width="40.77" x="1019.8299999999999" y="459" as="geometry" />
         </mxCell>
         <mxCell id="P6Ce5vJbtA9BVtcRjQjT-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;fontColor=light-dark(#000000,#000000);" value="政务外网" vertex="1">
-          <mxGeometry height="50" width="170" x="1000" y="359" as="geometry" />
+          <mxGeometry height="50" width="170" x="1156" y="359" as="geometry" />
         </mxCell>
         <mxCell id="P6Ce5vJbtA9BVtcRjQjT-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="政务外网用户" vertex="1">
           <mxGeometry height="30" width="90" x="977.33" y="409" as="geometry" />
@@ -120,7 +123,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1633" y="380" />
-              <mxPoint x="1200" y="380" />
+              <mxPoint x="1410" y="380" />
+              <mxPoint x="1410" y="440" />
+              <mxPoint x="1200" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
