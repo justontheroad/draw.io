@@ -85,7 +85,7 @@
         <mxCell id="umCU5VV7zzq28CVUsTIU-30" edge="1" parent="1" source="umCU5VV7zzq28CVUsTIU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" target="umCU5VV7zzq28CVUsTIU-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="umCU5VV7zzq28CVUsTIU-31" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" value="" vertex="1">
+        <mxCell id="umCU5VV7zzq28CVUsTIU-31" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="交换机" vertex="1">
           <mxGeometry height="80" width="80" x="1290" y="255.5" as="geometry" />
         </mxCell>
       </root>
